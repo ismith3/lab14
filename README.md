@@ -1,5 +1,6 @@
 # lab14
 
+D:\DeltaV\301\Lab14\lab14\data\schema.sql
 
 Number and name of feature: Feature #1 Database setup
 
@@ -7,17 +8,17 @@ Estimate of time needed to complete: 30mins
 
 Start time: 9:21
 
-Finish time: _____
+Finish time: 9:46
 
-Actual time needed to complete: _____
+Actual time needed to complete: 25mins
 
 ************************************************************
 
-Number and name of feature: ________________________________
+Number and name of feature: Feature #2 Database Migration
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 
 
-Start time: _____
+Start time: 9:47
 
 Finish time: _____
 
