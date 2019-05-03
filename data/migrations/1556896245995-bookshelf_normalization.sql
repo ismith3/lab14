@@ -1,5 +1,5 @@
 
--- creates new table for normalized data
+-- creates a new table for normalized data
 CREATE TABLE BOOKSHELVES (id SERIAL PRIMARY KEY, name VARCHAR(255));
 
 -- gets unique bookshelf names and adds to bookshelves
